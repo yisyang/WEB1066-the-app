@@ -1,3 +1,9 @@
+# Notes
+
+This fork is created for the week 4 assignment of the course:
+[Continuous Integration](https://www.coursera.org/learn/continuous-integration)
+
+
 # Microservice Phone Shop Application and CD pipeline
 
 ## Introduction
